@@ -30,4 +30,3 @@
    - **RESCUETIME_API_KEY:** The API key for your RescueTime account.
    - **GIST_ID:** The Gist ID that we got in Step 2
 5. Copy the contents of `.github/workflows/schedule.yml`, then delete the file and commit it. Then recreate the file and paste the contents back in (this is due to forked repos not running actions)
-
