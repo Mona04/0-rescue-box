@@ -11,5 +11,5 @@ jobs:
         uses: joshghent/rescue-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
-          RESCUETIME_API_KEY: ${{ secrets.RESCUETIME_API_KEY }}
+          GIST_ID: ${{ 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  }}
+          RESCUETIME_API_KEY: ${{ B63wKjCLN5od1RUnJ6FJaPDxxiqoY89WwM03BsQr }}
